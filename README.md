@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Web Development Framework**
 
-- 👨‍💻 All of my projects are available at [muhammadirfani.dev](muhammadirfani.dev)
+- 👨‍💻 All of my projects are available at [info.muhammadirfani.dev](info.muhammadirfani.dev)
 
-- 📝 I regularly write articles on [muhammadirfani.dev/blog](muhammadirfani.dev/blog)
+- 📝 I regularly write articles on .... (Cooming Soon)
 
 - 💬 Ask me about **Java, Python, Bootstrap, React**
 
